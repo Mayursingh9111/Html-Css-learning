@@ -1,0 +1,18 @@
+p{
+    background-color: maroon;
+    color: red;
+    border: 5px solid black;
+    padding: 5px ;
+    margin: 10px solid red;
+}
+body{
+    background-color: yellow;
+}
+
+h1{
+    background-color: pink;
+    color: brown;
+}
+.t1{
+    color: green;
+}
