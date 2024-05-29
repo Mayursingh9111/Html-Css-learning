@@ -1,0 +1,24 @@
+button:active{
+    background-color: red;
+}
+input:focus{
+    border: 5px dotted blueviolet;
+    background-color: yellow;
+}
+ul li:nth-child(3n) {
+    background-color: pink;
+}
+p::before {
+    content: "Note: ";
+    font-weight: bold;
+}
+p::before{
+    font-size: bold;
+    color: blue;
+}
+
+.px1{
+    background-color: red;
+    width: 50%;
+
+}
