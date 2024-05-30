@@ -1,0 +1,24 @@
+h1{
+    color: black;
+}
+p{
+    color: green;
+    background-color: pink;
+}
+button{
+    color: white;
+    background-color: red;
+}
+body{
+    background-color: #ff0062;
+}
+*{
+    font-size: 20px;
+}
+#f1{
+    color: yellow;
+}
+.f3{
+    color: blue;
+    background-color: bisque;
+}
