@@ -1,0 +1,22 @@
+div{
+    font-size: 40px;
+    width: 30%;
+    height: 100px;
+}
+#f1{
+    background-color: orange;
+    left: 100px;
+}
+#f2{
+    background-color: yellow;
+    position: relative;
+    /* left: 200px; */
+    top: 100px;
+}
+#f3{
+    background-color: red;
+    width: 40%;
+}
+#f4{
+    background-color: lightblue;
+}
